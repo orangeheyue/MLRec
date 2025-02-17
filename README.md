@@ -1,9 +1,9 @@
 # MLRec
-An excellent multimodal learning recommendation algorithm framework(MLRec)
+
 <div align="center">
   <img src="docs/MLRecV1.png" width="200" alt="茉莉-Rec Logo">
   <h1>茉莉-Rec (MLRec)</h1>
-  <h3>多模态学习推荐算法框架 | Jasmine-scented Recommendation</h3>
+  <h3>多模态学习推荐算法框架 | Powered by OrangeAI</h3>
 
   [![License](https://img.shields.io/badge/License-MIT-blue)]()
   [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green)]()
