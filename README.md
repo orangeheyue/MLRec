@@ -3,7 +3,7 @@
 <div align="center">
   <img src="docs/MLRecV1.png" width="200" alt="茉莉-Rec Logo">
   <h1>茉莉-Rec (MLRec)</h1>
-  <h3>多模态学习推荐算法框架 | Powered by OrangeAI</h3>
+  <h3>多模态学习推荐算法框架 | Powered by OrangeAI </h3>
 
   [![License](https://img.shields.io/badge/License-MIT-blue)]()
   [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green)]()
@@ -15,7 +15,7 @@
 
 ## 🌸 项目介绍
 
-**茉莉-Rec (MLRec)** 一个简单优雅的多模态深度学习推荐算法框架，旨在为推荐系统开发者提供从数据处理到模型训练、评估的一站式解决方案。项目以茉莉花的优雅融合为灵感，致力于实现多模态数据的协同推荐，支持文本、图像、视频和图结构数据的深度融合。
+**茉莉-Rec (MLRec)** 一个简单优雅的多模态深度学习推荐算法框架，旨在为推荐系统开发者提供从数据处理到模型训练、评估的一站式解决方案。项目以茉莉花的简单优雅融合为灵感，致力于实现多模态数据的协同推荐，支持文本、图像、视频和图结构数据的深度融合。
 
 ---
 
